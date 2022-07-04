@@ -20,7 +20,7 @@ using namespace std;
 //函数区
 int getGame(string a) {
     if (a == "tcs") return 1;
-    if (a == "gjxq")return 2;
+    if (a == "zgxq")return 2;
     if (a == "wzq")return 3;
     if (a == "elsfk")return 4;
     if (a == "mg")return 5;
