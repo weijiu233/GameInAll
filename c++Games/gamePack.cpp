@@ -107,7 +107,7 @@ int main()
             sendMessageGameStart(1);
             break;
         case 2:
-            cout << "国际象棋.\n";
+            cout << "中国象棋.\n";
             sendMessageGameStart(2);
             break;
         case 3:
